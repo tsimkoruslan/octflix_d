@@ -1,0 +1,16 @@
+.Header {
+    display: flex;
+    width: 100%;
+    position: fixed;
+    align-items: center;
+}
+
+.Dark  {
+    color: #cdcdcd;
+    background-color: #27353f;
+    border-bottom: #4c0b0b solid 2px;
+}
+.White {
+    background-color: #dbdee6;
+    border-bottom: #7d7d7d solid 2px;
+}

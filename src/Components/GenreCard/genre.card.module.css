@@ -1,0 +1,10 @@
+.Dark {
+    margin: 2px;
+    background: #969ea5;
+    border: solid 1px #353c43;
+    color: #27353f;
+}
+.White {
+    margin: 2px;
+    background-color: #dbdee6;
+}

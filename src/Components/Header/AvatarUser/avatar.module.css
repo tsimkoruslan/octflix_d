@@ -1,0 +1,17 @@
+.Avatar {
+    margin-right: 10px;
+    width: 45px;
+    border-radius: 50% ;
+    border: solid #424242;
+}
+.UserName {
+    font-size: 20px;
+    margin-right: 10px;
+}
+.Flex {
+    display: flex;
+    align-items: center;
+}
+.Dark{
+    border: solid #c6c6c6;
+}

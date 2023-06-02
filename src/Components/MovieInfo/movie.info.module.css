@@ -1,0 +1,67 @@
+.Parent {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Img {
+    height: 500px;
+}
+
+.MainInfo {
+    width: 50%;
+    display: flex;
+    margin: 10px;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.Background {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.Positions {
+    margin: 10px 20px 0 10%;
+    border: white solid 5px;
+    position: sticky;
+    bottom: 150px;
+}
+
+.Genres {
+    margin: 5px;
+    background-color: #c2cdd4;
+}
+
+.MainCard {
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    justify-content: center;
+
+}
+
+.Stars {
+    position: static;
+}
+
+.White {
+    background: #aaaeba;
+    color: #f2f2f2;
+}
+.Dark {
+background: #212f39;
+    color: #bac5cf;
+}
+.Trailer {
+    position: absolute;
+    right: 10%;
+    bottom: 20px;
+}
+@media (max-width: 1500px ) {
+    .Trailer {
+        position: absolute;
+        right: 5%;
+        bottom: -55%;
+    }
+}

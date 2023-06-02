@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+
+.Normalize {
+    text-decoration: none;
+    color: black;
+
+}
+.Info {
+    color: snow;
+}
+
+.Poster {
+    margin: 5px;
+    border-radius: 5px;
+
+}
+.Box {
+    box-sizing: border-box;
+}
+.Position {
+    position: static;
+}
+
+.Card:hover {
+    box-shadow: 0px  0px 5px 3px #818181;
+    width:  101%;
+}
+
+.Dark {
+background-color: #969ea5;
+    color: #212f39;
+}
+.White {
+    background-color: #dbdee6;
+}
